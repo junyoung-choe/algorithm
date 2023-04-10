@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class one_three {
 
     public String solution(String str) {
-        String ts[] = str.split(" ");
+        String ts[] = str.split(" "); // 공백기준으로 자른 문자들의 배열을 제작한다.
         String result = ""; // 초기화 해줘야한다.
 
         for (int i = 0; i < ts.length; i++) {

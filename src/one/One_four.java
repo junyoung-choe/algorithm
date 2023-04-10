@@ -25,7 +25,7 @@ public class One_four {
                 lt++;
                 rt--;
             }
-            String tmp = String.valueOf(s);  // 객체. 아니고 클래스.함수이기에 static으로 선언된 메소드이다.
+            String tmp = String.valueOf(s);  // 객체. 아니고 클래스.함수이기에 static으로 선언된 메소드이다. 다시 스트링으로 변경한다.
             answer.add(tmp);
         }
         return answer;
