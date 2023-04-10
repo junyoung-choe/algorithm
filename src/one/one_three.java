@@ -46,6 +46,7 @@ public class one_three {
         System.out.println(t.solution(str));
     }
 }
+
 // 한줄을 입력받을때 nextLine()
 // string 공백 넣을때 " "   초기화는 ""
 // int i = 0 대신 int i = Integer.MIN_VALUE
