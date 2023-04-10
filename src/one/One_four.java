@@ -57,6 +57,7 @@ public class One_four {
         }
     }
 }
+
 // ArrayList로 리턴타입 지정후 리턴을 ArrayList로 받아서 for : 사용해 알아서 배분된다. 기억하자
 // String tmp = new StringBuilder(x).reverse().toString(); tmp에 x의 리버스가 들어간다. x는 String 변수이고 저렇게 사용한다. 마지막에 다시 문자열로 변환
 // char[] s = x.toCharArray(); // x의 문자열을 문자배열로 제작한다.
