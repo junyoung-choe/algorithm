@@ -41,3 +41,4 @@ public class Two_eight {
             System.out.print(t + " ");
     }
 }
+// 배열중 몇개보다 작은지+1 은 등수에 비례한다는 생각을 가지자!!
