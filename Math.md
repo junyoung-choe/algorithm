@@ -25,3 +25,7 @@ https://www.acmicpc.net/problem/2247
 BOJ 1407 **2로 몇 번 나누어질까**
 
 https://www.acmicpc.net/problem/1407
+
+BOJ 2436 공약수 (호제법, 최소 공배수, 최대 공약수)
+
+https://www.acmicpc.net/problem/2436

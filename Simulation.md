@@ -84,6 +84,10 @@ BOJ 17143 낚시왕
 
 https://www.acmicpc.net/problem/17143
 
+BOJ 21610 마법사 상어와 비바라기
+
+https://www.acmicpc.net/problem/21610
+
 SWEA
 
 보호필름
