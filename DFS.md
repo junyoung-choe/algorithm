@@ -100,6 +100,10 @@ BOJ 17136 색종이 붙이기
 
 https://www.acmicpc.net/problem/17136
 
+BOJ 16987 계란으로 계란치기
+
+https://www.acmicpc.net/problem/16987
+
 재귀가 필요해 ~? → DFS or backTraking
 
 재귀가 필요없어 ? → BFS
