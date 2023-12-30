@@ -3,3 +3,6 @@ https://www.acmicpc.net/problem/11725
 
 BOJ 15681 트리와 쿼리
 https://www.acmicpc.net/problem/15681
+
+BOJ 1967 트리의 지름
+https://www.acmicpc.net/problem/1967
