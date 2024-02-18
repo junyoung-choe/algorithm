@@ -3,3 +3,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/12978
 
 Level2 미로 탈출 (BFS)
 https://school.programmers.co.kr/learn/courses/30/lessons/159993
+
+Level2 디펜스 게임 (그리디)
+https://school.programmers.co.kr/learn/courses/30/lessons/142085
