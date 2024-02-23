@@ -13,5 +13,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/1829
 Level2 이모티콘 할인행사 (DFS)
 https://school.programmers.co.kr/learn/courses/30/lessons/150368
 
-Level2 요격 시스템 (그리디)
+Level2 요격 시스템 (그리디)  
 https://school.programmers.co.kr/learn/courses/30/lessons/181188
+
+Level2 후보키 (완탐)  
+https://school.programmers.co.kr/learn/courses/30/lessons/42890
