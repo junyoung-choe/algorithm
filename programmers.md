@@ -16,8 +16,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/150368
 Level2 요격 시스템 (그리디)  
 https://school.programmers.co.kr/learn/courses/30/lessons/181188
 
-Level2 후보키 (TreeSet)  
+Level2 후보키 (TreeSet & 완전탐색)  
 https://school.programmers.co.kr/learn/courses/30/lessons/42890
 
-Level2 순위 검색 (HashSet)
+Level2 순위 검색 (HashSet & 이분탐색)  
 https://school.programmers.co.kr/learn/courses/30/lessons/72412
