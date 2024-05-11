@@ -13,6 +13,7 @@ class Solution {
                 storey++;
             } else if (now < 5){
                 answer += now;
+                // 틀린부분 2 > 가 아니라 >= 를 적었어야 했다
             } else if (storey % 10 >= 5) {
                 // 십의 자리 숫자의 연산을 줄여준다 !  이건 십의자릴 숫자 ++해준는게 이득
                 answer += 5;
