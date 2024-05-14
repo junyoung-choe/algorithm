@@ -1,5 +1,9 @@
 -- 코드를 입력하세요
 SELECT ANIMAL_ID, NAME, 
-IF(SEX_UPON_INTAKE LIKE "%Spayed%" ||  SEX_UPON_INTAKE LIKE "%Neutered%", 'O', 'X') as 중성화
+# IF(SEX_UPON_INTAKE LIKE "%Spayed%" ||  SEX_UPON_INTAKE LIKE "%Neutered%", 'O', 'X') as 중성화
+(CASE
+WHEN SEX_UPON_INTAKE LIKE "%Spayed%" THEN 'O'
+WHEN SEX_UPON_INTAKE LIKE "%Neutered%" THEN 'O'
+ELSE 'X' END) as 중성화
 FROM ANIMAL_INS
 ORDER BY ANIMAL_ID
