@@ -1,0 +1,18 @@
+-- 코드를 입력하세요
+# SELECT CATEGORY, MAX(PRICE) AS MAX_PRICE, PRODUCT_NAME
+# FROM FOOD_PRODUCT
+# WHERE CATEGORY IN('과자', '국', '김치', '식용유')
+# GROUP BY CATEGORY
+# ORDER BY MAX(PRICE) DESC
+
+# 가장 비싼 가격을 갖는 PRICE는 맞지만 그에 해당하는 PRODUCT_NAME은 맨 PK가 높은것이 나오는 중이다 ! 
+# 따라서 WHERE 에서 최대값을 갖는 애들을 찾아야 한다 ! 
+
+SELECT CATEGORY, PRICE, PRODUCT_NAME
+FROM FOOD_PRODUCT
+WHERE (CATEGORY, PRICE) IN 
+        (SELECT CATEGORY, MAX(PRICE) AS PRICE
+         FROM FOOD_PRODUCT
+         WHERE CATEGORY IN('과자', '국', '김치', '식용유')
+         GROUP BY CATEGORY)
+ORDER BY PRICE DESC
